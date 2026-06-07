@@ -3,7 +3,6 @@ package br.com.muniz.orquestrador.utils;
 import br.com.muniz.orquestrador.models.ApiResponse;
 
 import java.time.OffsetDateTime;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
